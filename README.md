@@ -36,4 +36,5 @@ Building responsive, scalable web applications with robust backends and dynamic 
 <p align="left">
   <!-- Language Stats Card -->
   <img src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=MohansMagic&layout=compact&theme=tokyonight" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohansMagic&theme=tokyonight&timezone=Asia/Kolkata" height="195" alt="GitHub Streak" />
 </p>
